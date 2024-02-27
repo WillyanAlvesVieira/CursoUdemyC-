@@ -1,0 +1,14 @@
+c:\Users\Willyan\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.exe
+c:\Users\Willyan\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.deps.json
+c:\Users\Willyan\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.runtimeconfig.json
+c:\Users\Willyan\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.dll
+c:\Users\Willyan\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.pdb
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.AssemblyInfoInputs.cache
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.AssemblyInfo.cs
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.csproj.CoreCompileInputs.cache
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.dll
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\refint\CursoUdemyC#.dll
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.pdb
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.genruntimeconfig.cache
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\ref\CursoUdemyC#.dll
