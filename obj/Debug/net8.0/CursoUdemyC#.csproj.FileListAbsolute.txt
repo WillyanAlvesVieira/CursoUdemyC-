@@ -12,3 +12,4 @@ c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\refint\CursoUdemyC#.dll
 c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.pdb
 c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.genruntimeconfig.cache
 c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\ref\CursoUdemyC#.dll
+c:\Users\Willyan\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.sourcelink.json
